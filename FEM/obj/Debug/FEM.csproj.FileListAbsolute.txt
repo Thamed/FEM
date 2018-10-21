@@ -1,0 +1,21 @@
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\bin\Debug\FEM.exe.config
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.csprojResolveAssemblyReference.cache
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.Form1.resources
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.Properties.Resources.resources
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.csproj.GenerateResource.Cache
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\bin\Debug\FEM.exe
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\bin\Debug\FEM.pdb
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.exe
+c:\users\stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.pdb
+C:\Users\Stanisław\documents\visual studio 2015\Projects\FEM\FEM\obj\Debug\FEM.Form2.resources
+C:\Users\ThamedPC\Desktop\FEM\FEM\bin\Debug\FEM.exe.config
+C:\Users\ThamedPC\Desktop\FEM\FEM\bin\Debug\FEM.exe
+C:\Users\ThamedPC\Desktop\FEM\FEM\bin\Debug\FEM.pdb
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.csprojAssemblyReference.cache
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.Form1.resources
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.Form2.resources
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.Properties.Resources.resources
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.csproj.GenerateResource.cache
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.csproj.CoreCompileInputs.cache
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.exe
+C:\Users\ThamedPC\Desktop\FEM\FEM\obj\Debug\FEM.pdb
